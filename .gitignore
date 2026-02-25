@@ -1,0 +1,8 @@
+*.pyc    
+
+scripts/tests/results
+scripts/article.md
+scripts/image_edit_usage_cn.md
+scripts/image_image_usage_en.md
+scripts/tests/test_image_edit.py
+
